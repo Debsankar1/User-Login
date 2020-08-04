@@ -1,0 +1,5 @@
+It's just a basic user login.
+you just input your details, according to the requirement.
+The requirements are mention in the program also. 
+Here, i am using python librery(PyQt5) & sql.
+Check it out!!  
